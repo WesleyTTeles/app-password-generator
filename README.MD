@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](./src/assets/video.mov)
+![App Screenshot](./src/assets/mockup.png)
 
 # App Password Generator
 
